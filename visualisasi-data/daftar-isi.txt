@@ -1,0 +1,8 @@
+1. Pengantar Python
+2. Pengenalan Matplotlib dan Numpy (Beserta contoh sederhana)
+3. Setting Tampilan figure
+4. Plotting Garis
+5. plotting histogram
+6. plotting pie chart
+7. plotting 3 dimensi
+8. plotting scatter
