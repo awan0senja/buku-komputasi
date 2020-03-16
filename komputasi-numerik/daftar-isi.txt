@@ -1,0 +1,2 @@
+pengenalan numpy
+macam-macam metode numerik (belum hafal)
